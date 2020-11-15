@@ -4916,6 +4916,7 @@ dependencies = [
  "cookie",
  "crossbeam-channel",
  "cssparser",
+ "data-url",
  "deny_public_fields",
  "devtools_traits",
  "dom_struct",
