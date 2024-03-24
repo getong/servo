@@ -64,7 +64,7 @@ euclid = { workspace = true }
 getopts = { workspace = true }
 gilrs = "0.10.6"
 gleam = { workspace = true }
-glow = "0.12.2"
+glow = "0.13.1"
 keyboard-types = { workspace = true }
 lazy_static = { workspace = true }
 libc = { workspace = true }
