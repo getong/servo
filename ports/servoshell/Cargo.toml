@@ -99,7 +99,7 @@ egui-winit = { version = "0.28.1", default-features = false, features = ["clipbo
 euclid = { workspace = true }
 gilrs = { git = "https://gitlab.com/gilrs-project/gilrs", rev = "eafb7f2ef488874188c5d75adce9aef486be9d4e" }
 gleam = { workspace = true }
-glow = "0.13.1"
+glow = "0.14.0"
 keyboard-types = { workspace = true }
 raw-window-handle = "0.6"
 shellwords = "1.0.0"
